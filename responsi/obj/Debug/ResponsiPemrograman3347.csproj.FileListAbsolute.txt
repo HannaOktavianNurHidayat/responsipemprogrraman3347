@@ -1,0 +1,7 @@
+D:\Amikom\sem 2\Pemrograman\kumpulan tugas\responsi\responsi\responsi\bin\Debug\responsi.exe.config
+D:\Amikom\sem 2\Pemrograman\kumpulan tugas\responsi\responsi\responsi\bin\Debug\responsi.exe
+D:\Amikom\sem 2\Pemrograman\kumpulan tugas\responsi\responsi\responsi\bin\Debug\responsi.pdb
+D:\Amikom\sem 2\Pemrograman\kumpulan tugas\responsi\responsi\responsi\obj\Debug\ResponsiPemrograman3347.csprojAssemblyReference.cache
+D:\Amikom\sem 2\Pemrograman\kumpulan tugas\responsi\responsi\responsi\obj\Debug\ResponsiPemrograman3347.csproj.CoreCompileInputs.cache
+D:\Amikom\sem 2\Pemrograman\kumpulan tugas\responsi\responsi\responsi\obj\Debug\responsi.exe
+D:\Amikom\sem 2\Pemrograman\kumpulan tugas\responsi\responsi\responsi\obj\Debug\responsi.pdb
